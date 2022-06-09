@@ -1,0 +1,4 @@
+#Wed Jun 08 21:36:11 CST 2022
+base.0=D\:\\LEMUEL\\cardguessgame\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

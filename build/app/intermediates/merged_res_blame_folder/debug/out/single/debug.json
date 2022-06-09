@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-hdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-v21_launch_background.xml.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-night-hdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-night-hdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable_background02.jpg.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable/background02.jpg"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-xhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-night-xxhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-night-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-night-xxxhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-night-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-xxxhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-xxxhdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-night-mdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-night-mdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-v21_background02.jpg.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-v21/background02.jpg"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-mdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable_launch_background.xml.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-xxhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "com.team10.cardguessgame.cardguessgame.app-merged_res-12:/drawable-night-xhdpi_splash.png.flat",
+        "source": "com.team10.cardguessgame.cardguessgame.app-main-6:/drawable-night-xhdpi/splash.png"
+    }
+]
